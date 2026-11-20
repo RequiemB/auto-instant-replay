@@ -1,4 +1,4 @@
-# NVIDIA Replay Auto
+# Auto Instant Replay
 
 A lightweight Windows background application written in C++ that automatically enables and disables NVIDIA Instant Replay based on running game processes.
 
