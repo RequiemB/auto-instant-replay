@@ -27,8 +27,11 @@ The application runs silently without opening a console window.
 Edit `games.txt`:
 
 ```ini
+
 poll_ms=2000
 
+# Executable names to monitor (case insensitive)
+# One game per line
 cs2.exe
 ```
 
