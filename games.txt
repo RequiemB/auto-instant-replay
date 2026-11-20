@@ -1,0 +1,5 @@
+# Executable names to monitor (case insensitive)
+# One game per line
+poll_ms=2000
+# If NVIDIA App uses a fallback port, set endpoint= using server.json
+cs2.exe
